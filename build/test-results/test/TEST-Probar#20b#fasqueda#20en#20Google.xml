@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Probar búsqueda en Google" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-03-22T16:46:40" hostname="DESKTOP-6G8LFHP" time="5.893">
+  <properties/>
+  <testcase name="As a user I enter a search criteria in Google" classname="Probar búsqueda en Google" time="5.893"/>
+  <system-out><![CDATA[?[32m.?[0m?[32m.?[0m?[32m.?[0m?[32m.?[0m]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 99.0.4844.51 (d537ec02474b5afe23684e7963d538896c63ac77-refs/branch-heads/4844@{#875}) on port 47250
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+mar. 22, 2022 1:46:42 P. M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>
