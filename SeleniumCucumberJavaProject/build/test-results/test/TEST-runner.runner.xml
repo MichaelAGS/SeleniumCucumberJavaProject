@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="runner.runner" tests="0" skipped="0" failures="0" errors="0" timestamp="1970-01-01T00:00:00" hostname="DESKTOP-6G8LFHP" time="0.0">
+  <properties/>
+  <system-out><![CDATA[
+?[33mUndefined scenarios:?[0m
+?[33msrc/test/resources/features/Google.feature:3 ?[0m# As a user I enter a search criteria in Google
+
+1 Scenarios (?[33m1 undefined?[0m)
+4 Steps (?[33m4 undefined?[0m)
+0m0,195s
+
+
+You can implement missing steps with the snippets below:
+
+@Given("I am on the Google search page")
+public void i_am_on_the_Google_search_page() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new cucumber.api.PendingException();
+}
+
+@When("I enter a search criteria")
+public void i_enter_a_search_criteria() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new cucumber.api.PendingException();
+}
+
+@When("click on the search button")
+public void click_on_the_search_button() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new cucumber.api.PendingException();
+}
+
+@Then("the result march the criteria")
+public void the_result_march_the_criteria() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new cucumber.api.PendingException();
+}
+
+
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
